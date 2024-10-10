@@ -4,9 +4,9 @@ pragma solidity 0.8.26;
 contract MyToken {
 
     // Public variables to store token details
-    string public tokenName = "MyToken";      // Token name
-    string public tokenAbbrv = "MTK";         // Token abbreviationb.
-    uint256 public totalSupply = 7;           // Total supply of the token
+    string public tokenName = "Token";      // Token name
+    string public tokenAbbrv = "TK1";         // Token abbreviationb.
+    uint256 public totalSupply = 0;           // Total supply of the token
 
     // Mapping from address to balance
     mapping(address => uint256) public balances;
