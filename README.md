@@ -1,10 +1,10 @@
 # MyToken Solidity Smart Contract
 
-This repository contains the source code for the **MyToken** ERC-20 style token built with Solidity. It allows minting and burning of tokens, and it stores token balances for each address.
+This repository contains the source code for the **MyToken**  token built with Solidity. It allows minting and burning of tokens, and it stores token balances for each address.
 
 ## Overview
 
-**MyToken** is a simple ERC-20 style token smart contract built on Ethereum. It provides basic functionality for:
+**MyToken** is a simple smart contract built on Ethereum. It provides basic functionality for:
 - Minting tokens to any address.
 - Burning tokens from any address.
 - Storing balances for each address.
